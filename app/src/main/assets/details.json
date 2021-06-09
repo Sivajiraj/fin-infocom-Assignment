@@ -1,0 +1,22 @@
+[
+  {
+    "email": "dummy@gmail.com",
+    "mobileNo": 1234567891
+  },
+  {
+    "email": "dummy2@gmail.com",
+    "mobileNo": 123456792
+  },
+  {
+    "email": "dummy3@gmail.com",
+    "mobileNo": 1234567893
+  },
+  {
+    "email": "dummy4@gmail.com",
+    "mobileNo": 1234567894
+  },
+  {
+    "email": "dummy5@gmail.com",
+    "mobileNo": 1234567895
+  }
+]
